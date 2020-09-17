@@ -16,10 +16,10 @@ tags:
   - Cianobacterias
   - Prebiótico
 ---
-<span style="font-size:1.em"><a id="target" style= "color:blue"><b>Nota de los autores</b></a></span>
+<span style="font-size:10.75.em"><a id="target" style= "color:black"><b>*Nota de los autores*</b></a></span>
 &nbsp;   
 <span style="font-size:0.75.em">
-NOTA DE LOS AUTORES: Lo que contamos en este post está basado en algunas de las muchas hipótesis que explican el origen de la vida. El texto sigue un hilo recorriendo algunas de las teorías más importantes, basándose en datos mencionados en forma de pequeños detalles. Estos detalles, asociados a números, están explicados de forma más extendida (y a veces técnica) al final del texto. Esperamos que disfrutéis de este relato.
+*Lo que contamos en este post está basado en algunas de las muchas hipótesis que explican el origen de la vida. El texto sigue un hilo recorriendo algunas de las teorías más importantes, basándose en datos mencionados en forma de pequeños detalles. Estos detalles, asociados a números, están explicados de forma más extendida (y a veces técnica) al final del texto. Esperamos que disfrutéis de este relato.*
 
 ---
 La suave brisa marina rozaba la piel de aquella joven tumbada sobre la arena. Un júbilo indescriptible corría por las venas de Eva mientras miraba las estrellas en aquella noche despejada de verano. Qué lejanas e indomables parecían. Esa luz había asombrado a tantas generaciones a lo largo de la historia y ahora comprendíamos qué era y cuánto podía tardar en llegar a nuestra retina. Nos había costado un millón de años entenderlo, desde que la evolución llevó a la aparición del primer Homo. Pero aún había muchas grandes incógnitas sin resolver ¿Tendrían que pasar otro millón u otros 3.500 millones de años de evolución para llegar a resolverlas?¿Alguna vez hallaríamos la respuesta o simplemente tendríamos que aceptar que hay preguntas que nunca podremos responder?
