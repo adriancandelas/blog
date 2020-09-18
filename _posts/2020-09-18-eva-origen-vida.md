@@ -89,4 +89,7 @@ La actividad de los volcanes decrecía y la atmósfera de polvo se disipaba perm
 
 ---
 
+**Colaboración**
+Gracias a **Nahum Méndez** por su asesoramiento en este post. Podéis visitar su blog en: https://www.ungeologoenapuros.es/2014/06/la-importancia-de-los-impactos-en-el-origen-y-mantenimiento-de-la-vida/. Además ha escrito un libro sobre el cambio que ha sufrido la Tierra desde su inicio: "Un geólogo en apuros: Un viaje a través del tiempo y hacia lo más profundo de la Tierra" (https://www.amazon.es/ge%C3%B3logo-apuros-trav%C3%A9s-profundo-curiosos/dp/8449335892/ref=as_li_ss_tl?ie=UTF8&qid=1551730479&sr=8-1&keywords=un+geologo+en+apuros&linkCode=sl1&tag=geologo-21&linkId=ca022a7d7cdfbc652baff7b25ab0d196&language=es_ES)
 
+---
