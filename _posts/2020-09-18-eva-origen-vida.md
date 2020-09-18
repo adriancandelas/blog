@@ -45,7 +45,7 @@ La actividad de los volcanes decrecía y la atmósfera de polvo se disipaba perm
 
 
 
-<span style="font-size:1.5em"><a id="target1" style= "color:black"><b>Glosario</b></a></span>   
+<span style="font-size:1.5em"><a id="target1" style= "color:black"><b>Detrás del texto</b></a></span>   
 &nbsp; 
 <span style="font-size:1.25em"> 
 - **(1)Las condiciones óptimas para la vida**: Algunos expertos especulan que la vida podría haber aparecido en el periodo comprendido entre el final de la lluvia de meteoros (hace 3.850 millones de años terminaba el periodo conocido como Bombardeo Intenso Tardío, el último gran bombardeo de meteoritos) y la datación del primer fósil encontrado, los estromatolitos de Groenlandia (de hace 3.700 millones de años) Nutman et al. 2016, Nature. También se considera la posibilidad que las primeras biomoléculas o moléculas que forman los organismos vivos pudieron llegar en meteoritos durante las etapas de bombardeo, puesto que las condiciones óptimas para la vida podrían haberse dado poco después de la formación de la Tierra (hace 4.400-4.000 millones de años). Si el Bombardeo Intenso Tardío fue tan intenso como para exterminar cualquier inicio de vida es un tema actual de discusión. Ambas hipótesis no son excluyentes, por lo que podrían haber sucedido en paralelo.
