@@ -62,7 +62,7 @@ La actividad de los volcanes decrecía y la atmósfera de polvo se disipaba perm
 </figure>
 
 
-<span style="font-size:1.25em"><a id="target2" style= "color:black"><b>Glosario</b></a></span>   
+<span style="font-size:1.5em"><a id="target2" style= "color:black"><b>Glosario</b></a></span>   
 <span style="font-size:1.25em">
 	**Precámbrico**: es el periodo geológico comprendido desde la formación de la Tierra hace 4.600 millones de años hasta hace 541 millones de años, siendo el periodo geológico más largo de la Tierra (88%). Se divide en tres eones, el Hádico (4.600 - 4.000 millones de años), el Arcaico, en el cual se considera que se desarrolla el inicio de la vida en la Tierra (4.000 - 2.500 millones de años) y el Proterozoico, en el que tiene lugar la explosión de la vida en los océanos y mares y el desarrollo de los primeros animales y plantas en una atmósfera rica en oxígeno y con una capa de ozono protectora (2.500 - 541 millones de años).
 	**Chimeneas hidrotermales**:  También conocidas como fuentes hidrotermales, son grietas en el suelo oceánico por las que sale agua a altas temperaturas. Son estructuras geológicas asociadas a actividad volcánica, donde el magma se encuentra próximo a la superficie. La temperatura de sus aguas llega hasta los 400°C, manteniendo el estado líquido gracias al incremento de la presión asociado a zonas de alta profundidad y a la salinidad de sus aguas. Se forman por la deposición mineral de sulfatos de cobre, hierro y zinc que salen del interior de estas fuentes.
