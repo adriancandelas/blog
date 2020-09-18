@@ -86,6 +86,6 @@ La actividad de los volcanes decrecía y la atmósfera de polvo se disipaba perm
 ---
 
 **Colaboración**
-Gracias a **Nahum Méndez** por su asesoramiento en este post. Sinceramente os recomendamos su libro "Un geólogo en apuros: Un viaje a través del tiempo y hacia lo más profundo de la Tierra" y su blog de divulgación: "Un geólogo en apuros".
+Gracias a **Nahum Méndez** por su asesoramiento como experto en geología para este post. Además tiene un libro muy interesante, si os interesa saber más de la geología de la Tierra: "Un geólogo en apuros: Un viaje a través del tiempo y hacia lo más profundo de la Tierra". Y aquí os dejamos también su blog de divulgación: [**"Un geólogo en apuros"**](https://www.ungeologoenapuros.es/).
 
 ---
