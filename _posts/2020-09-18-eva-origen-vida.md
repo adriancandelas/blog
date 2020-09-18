@@ -16,7 +16,7 @@ tags:
   - Cianobacterias
   - Prebiótico
 ---
-<span style="font-size:2.0.em"><a id="target" style= "color:black"><b>*Nota de los autores*</b></a></span>
+<span style="font-size:2.0.em"><a id="asd" style= "color:black"><b>*Nota de los autores*</b></a></span>
 &nbsp;   
 <span style="font-size:2.0.em">
 *Lo que contamos en este post está basado en algunas de las muchas hipótesis que explican el origen de la vida. El texto sigue un hilo recorriendo algunas de las teorías más importantes, basándose en datos mencionados en forma de pequeños detalles. Estos detalles, asociados a números, están explicados de forma más extendida (y a veces técnica) al final del texto. Esperamos que disfrutéis de este relato.*
