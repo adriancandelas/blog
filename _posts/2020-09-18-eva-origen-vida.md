@@ -79,7 +79,7 @@ La actividad de los volcanes decrecía y la atmósfera de polvo se disipaba perm
 - Libro divulgativo sobre las teorías del origen de la vida de forma detallada: *Orígenes: El universo, la vida, los humanos. Carlos Briones, Alberto Fernández Soto y José María Bermúdez de Castro. Editorial: Crítica. 2015.*{:target="_blank"} 
 - Libro técnico sobre cianobacterias: *Algae. James E. Graham, Lee W. Wilcox y Linda E. Graham. Editorial: Pearson. 2009.*
 - Artículo científico sobre los estromatolitos: *Rapid emergence of life shown by discovery of 3,700-million-year-old microbial structures. Allen P. Nutman, Vickie C. Bennett, Clark R. L. Friend, Martin J. Van Kranendonk & Allan R. Chivas. Nature. 2016.*
-- Sobre paleogeología: [Nahum Méndez: Un geólogo en apuros] https://www.ungeologoenapuros.es/2014/06/la-importancia-de-los-impactos-en-el-origen-y-mantenimiento-de-la-vida/{:target="_blank"}
+- Sobre paleogeología: [Nahum Méndez: Un geólogo en apuros] (https://www.ungeologoenapuros.es/2014/06/la-importancia-de-los-impactos-en-el-origen-y-mantenimiento-de-la-vida/){:target="_blank"}
 
 - Libro divulgativo sobre las teorías del origen de la vida de forma detallada: *Orígenes: El universo, la vida, los humanos. Carlos Briones, Alberto Fernández Soto y José María Bermúdez de Castro. Editorial: Crítica. 2015.*{:target="_blank"} 
 
