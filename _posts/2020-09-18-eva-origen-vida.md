@@ -81,15 +81,9 @@ La actividad de los volcanes decrecía y la atmósfera de polvo se disipaba perm
 - Artículo científico sobre los estromatolitos: *Rapid emergence of life shown by discovery of 3,700-million-year-old microbial structures. Allen P. Nutman, Vickie C. Bennett, Clark R. L. Friend, Martin J. Van Kranendonk & Allan R. Chivas. Nature. 2016.*
 - Sobre paleogeología: [Nahum Méndez: Un geólogo en apuros] (https://www.ungeologoenapuros.es/2014/06/la-importancia-de-los-impactos-en-el-origen-y-mantenimiento-de-la-vida/){:target="_blank"}
 
-- Libro divulgativo sobre las teorías del origen de la vida de forma detallada: *Orígenes: El universo, la vida, los humanos. Carlos Briones, Alberto Fernández Soto y José María Bermúdez de Castro. Editorial: Crítica. 2015.*{:target="_blank"} 
-
-* Bibliografía en Inglés: [Steve Silberman (2010). The woman behind HeLa. Nature, 463, 610.](https://doi.org/10.1038/463610a){:target="_blank"}
-
-* Primer artículo en el que usaban las células HeLa para estudiar la propagación del virus de la poliomielitis: [William F. Scherer, Jerome T. Syverton and George O. Gey. Studies on the propagation in vitro of poliomyelitis viruses. VI. Viral multiplication in a stable strain of human malignant epithelial cells (strain HeLa) derived from an epidermoid carcinoma of the cervix (1953). J. Exp. Med. 97(5): 695–710.](10.1084/jem.97.5.695){:target="_blank"}
-
 ---
 
 **Colaboración**
-Gracias a **Nahum Méndez** por su asesoramiento en este post. Podéis visitar su blog en: https://www.ungeologoenapuros.es/2014/06/la-importancia-de-los-impactos-en-el-origen-y-mantenimiento-de-la-vida/. Además ha escrito un libro sobre el cambio que ha sufrido la Tierra desde su inicio: "Un geólogo en apuros: Un viaje a través del tiempo y hacia lo más profundo de la Tierra" (https://www.amazon.es/ge%C3%B3logo-apuros-trav%C3%A9s-profundo-curiosos/dp/8449335892/ref=as_li_ss_tl?ie=UTF8&qid=1551730479&sr=8-1&keywords=un+geologo+en+apuros&linkCode=sl1&tag=geologo-21&linkId=ca022a7d7cdfbc652baff7b25ab0d196&language=es_ES)
+Gracias a **Nahum Méndez** por su asesoramiento en este post. Sinceramente os recomendamos su libro "Un geólogo en apuros: Un viaje a través del tiempo y hacia lo más profundo de la Tierra" y su blog de divulgación: "Un geólogo en apuros".
 
 ---
